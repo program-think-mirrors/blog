@@ -1,0 +1,39 @@
+﻿<job>
+<script language="JScript">
+
+function Make()
+{
+  var fso = WSH.CreateObject("Scripting.FileSystemObject");
+  var shell = WSH.CreateObject("WScript.Shell");
+
+  var sCurDir = fso.GetParentFolderName(WSH.ScriptFullName)+"\\";
+  var sChmPath = sCurDir+"program-think.chm";
+  if(fso.FileExists(sChmPath))
+  {
+    fso.DeleteFile(sChmPath);
+  }
+
+  var sHtmlDir = fso.GetParentFolderName(fso.GetParentFolderName(sCurDir))+"\\html\\";
+  fso.CopyFile(".\\conf\\program-think.hhp", sHtmlDir);
+  fso.CopyFile(".\\conf\\program-think.hhc", sHtmlDir);
+
+  shell.Run("hhc.exe \"" + sHtmlDir + "program-think.hhp\"", 1, true);
+
+  fso.DeleteFile(sHtmlDir + "program-think.hhp");
+  fso.DeleteFile(sHtmlDir + "program-think.hhc");
+
+  shell.Run(sChmPath, 3);
+}
+
+
+try
+{
+  Make();
+}
+catch(err)
+{
+  WSH.Echo("Error:\n" + err.message);
+}
+
+</script>
+</job>

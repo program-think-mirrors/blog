@@ -1,0 +1,109 @@
+﻿<job>
+<script language="JScript">
+
+function Make()
+{
+  var fso = WSH.CreateObject("Scripting.FileSystemObject");
+  var sCurDir = fso.GetParentFolderName(WSH.ScriptFullName)+"\\";
+
+  var sZipPath = sCurDir+"program-think.zip";
+  var sEpubPath = sCurDir+"program-think.epub";
+  if(fso.FileExists(sEpubPath))
+  {
+    fso.DeleteFile(sEpubPath);
+  }
+
+  CreateEmptyZip(sZipPath);
+  CopyToZip(sCurDir+"conf", sZipPath);
+  var sHtmlDir = fso.GetParentFolderName(fso.GetParentFolderName(sCurDir))+"\\html";
+  CopyToZip(sHtmlDir, sZipPath);
+
+  fso.MoveFile(sZipPath, sEpubPath);
+  WSH.Echo("\nEPUB OK");
+}
+
+function CreateEmptyZip(sZipPath)
+{
+  var fso = WSH.CreateObject("Scripting.FileSystemObject");
+
+  if(fso.FileExists(sZipPath))
+  {
+    fso.DeleteFile(sZipPath);
+  }
+
+  var fileZip = fso.CreateTextFile(sZipPath);
+  fileZip.Write("PK"+String.fromCharCode(5, 6));
+  for(var i=0; i<18; i++)
+  {
+    fileZip.Write(String.fromCharCode(0));
+  }
+  fileZip.Close();
+}
+
+function CopyToZip(sSrcPath, sZipPath)
+{
+  var app = WSH.CreateObject("Shell.Application");
+  var folderSrc = app.NameSpace(sSrcPath);
+  var folderDst = app.NameSpace(sZipPath);
+  var fso = WSH.CreateObject("Scripting.FileSystemObject");
+
+  for(var i=0; i<folderSrc.Items().Count; i++)
+  {
+    ShowFolderInfo(folderSrc.Items().Item(i));
+    var nOldSize = fso.GetFile(sZipPath).Size;
+
+    folderDst.CopyHere(folderSrc.Items().Item(i));  // ASYNC
+
+    while(true)
+    {
+      WSH.Sleep(200);
+      try
+      {
+        if(fso.GetFile(sZipPath).Size > nOldSize)
+        {
+          break;
+        }
+      }
+      catch(err)
+      {
+      }
+    }
+  }
+}
+
+function ShowFolderInfo(folder)
+{
+  if(!folder.IsFolder)
+  {
+    return;
+  }
+
+  var sName = ""+folder;
+  if(sName.match(/20\d{2}|archive|images|tags/))
+  {
+    WSH.Echo(sName);
+  }
+}
+
+
+if(WSH.FullName.match(/\\wscript\.exe$/i))
+{
+  var shell = WSH.CreateObject("WScript.Shell");
+  shell.Run("CScript.exe //Nologo \"" + WSH.ScriptFullName + "\"");
+  WSH.Quit();
+}
+
+try
+{
+  Make();
+}
+catch(err)
+{
+  WSH.Echo("Error:\n" + err.message);
+}
+
+WSH.Echo("\nPress ENTER to quit.");
+WSH.StdIn.Read(1);
+
+</script>
+</job>

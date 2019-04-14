@@ -11,11 +11,11 @@
 <li><object type="text/sitemap"><param name="Name" value="首页"><param name="Local" value="index.html"><param name="ImageNumber" value="12"></object>
 <li><object type="text/sitemap"><param name="Name" value="分类标签"><param name="ImageNumber" value="1"></object>
 <ul>
-<li><object type="text/sitemap"><param name="Name" value="IT (182)"><param name="Local" value="tags/IT.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT (183)"><param name="Local" value="tags/IT.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.Linux (5)"><param name="Local" value="tags/IT.Linux.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.业界评论 (15)"><param name="Local" value="tags/IT.E4B89AE7958CE8AF84E8AEBA.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.人工智能 (3)"><param name="Local" value="tags/IT.E4BABAE5B7A5E699BAE883BD.html"><param name="ImageNumber" value="11"></object>
-<li><object type="text/sitemap"><param name="Name" value="IT.信息安全 (85)"><param name="Local" value="tags/IT.E4BFA1E681AFE5AE89E585A8.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT.信息安全 (86)"><param name="Local" value="tags/IT.E4BFA1E681AFE5AE89E585A8.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.翻墙 (45)"><param name="Local" value="tags/IT.E7BFBBE5A299.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.软件介绍 (42)"><param name="Local" value="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="书评/影评 (51)"><param name="Local" value="tags/E4B9A6E8AF842FE5BDB1E8AF84.html"><param name="ImageNumber" value="11"></object>
@@ -174,7 +174,7 @@
 </ul>
 <li><object type="text/sitemap"><param name="Name" value="历史归档"><param name="ImageNumber" value="1"></object>
 <ul>
-<li><object type="text/sitemap"><param name="Name" value="2019 (8)"><param name="Local" value="archive/2019.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="2019 (9)"><param name="Local" value="archive/2019.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2018 (31)"><param name="Local" value="archive/2018.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2017 (34)"><param name="Local" value="archive/2017.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2016 (37)"><param name="Local" value="archive/2016.html"><param name="ImageNumber" value="11"></object>

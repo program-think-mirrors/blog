@@ -2,7 +2,7 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="zh-CN">
 <head>
-<meta name="dtb:uid" content="http://program-think.blogspot.com/2019/04/" />
+<meta name="dtb:uid" content="http://program-think.blogspot.com/2019/05/" />
 <meta name="dtb:depth" content="4" />
 <meta name="dtb:totalPageCount" content="0" />
 <meta name="dtb:maxPageNumber" content="0" />
@@ -20,13 +20,13 @@
 <navPoint id="tag" playOrder="2">
 <navLabel><text>分类标签</text></navLabel>
 <content src="" />
-<navPoint id="tag-IT" playOrder="3"><navLabel><text>IT (183)</text></navLabel><content src="tags/IT.html" /></navPoint>
+<navPoint id="tag-IT" playOrder="3"><navLabel><text>IT (184)</text></navLabel><content src="tags/IT.html" /></navPoint>
 <navPoint id="tag-IT.Linux" playOrder="4"><navLabel><text>IT.Linux (5)</text></navLabel><content src="tags/IT.Linux.html" /></navPoint>
 <navPoint id="tag-IT.E4B89AE7958CE8AF84E8AEBA" playOrder="5"><navLabel><text>IT.业界评论 (15)</text></navLabel><content src="tags/IT.E4B89AE7958CE8AF84E8AEBA.html" /></navPoint>
 <navPoint id="tag-IT.E4BABAE5B7A5E699BAE883BD" playOrder="6"><navLabel><text>IT.人工智能 (3)</text></navLabel><content src="tags/IT.E4BABAE5B7A5E699BAE883BD.html" /></navPoint>
-<navPoint id="tag-IT.E4BFA1E681AFE5AE89E585A8" playOrder="7"><navLabel><text>IT.信息安全 (86)</text></navLabel><content src="tags/IT.E4BFA1E681AFE5AE89E585A8.html" /></navPoint>
-<navPoint id="tag-IT.E7BFBBE5A299" playOrder="8"><navLabel><text>IT.翻墙 (45)</text></navLabel><content src="tags/IT.E7BFBBE5A299.html" /></navPoint>
-<navPoint id="tag-IT.E8BDAFE4BBB6E4BB8BE7BB8D" playOrder="9"><navLabel><text>IT.软件介绍 (42)</text></navLabel><content src="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html" /></navPoint>
+<navPoint id="tag-IT.E4BFA1E681AFE5AE89E585A8" playOrder="7"><navLabel><text>IT.信息安全 (87)</text></navLabel><content src="tags/IT.E4BFA1E681AFE5AE89E585A8.html" /></navPoint>
+<navPoint id="tag-IT.E7BFBBE5A299" playOrder="8"><navLabel><text>IT.翻墙 (46)</text></navLabel><content src="tags/IT.E7BFBBE5A299.html" /></navPoint>
+<navPoint id="tag-IT.E8BDAFE4BBB6E4BB8BE7BB8D" playOrder="9"><navLabel><text>IT.软件介绍 (43)</text></navLabel><content src="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html" /></navPoint>
 <navPoint id="tag-E4B9A6E8AF842FE5BDB1E8AF84" playOrder="10"><navLabel><text>书评/影评 (51)</text></navLabel><content src="tags/E4B9A6E8AF842FE5BDB1E8AF84.html" /></navPoint>
 <navPoint id="tag-E5869BE4BA8B" playOrder="11"><navLabel><text>军事 (9)</text></navLabel><content src="tags/E5869BE4BA8B.html" /></navPoint>
 <navPoint id="tag-E58D9AE5AEA2E9809AE5918A" playOrder="12"><navLabel><text>博客通告 (32)</text></navLabel><content src="tags/E58D9AE5AEA2E9809AE5918A.html" /></navPoint>
@@ -165,7 +165,7 @@
 <navPoint id="archive" playOrder="141">
 <navLabel><text>历史归档</text></navLabel>
 <content src="" />
-<navPoint id="archive-2019" playOrder="142"><navLabel><text>2019 (10)</text></navLabel><content src="archive/2019.html" /></navPoint>
+<navPoint id="archive-2019" playOrder="142"><navLabel><text>2019 (11)</text></navLabel><content src="archive/2019.html" /></navPoint>
 <navPoint id="archive-2018" playOrder="143"><navLabel><text>2018 (31)</text></navLabel><content src="archive/2018.html" /></navPoint>
 <navPoint id="archive-2017" playOrder="144"><navLabel><text>2017 (34)</text></navLabel><content src="archive/2017.html" /></navPoint>
 <navPoint id="archive-2016" playOrder="145"><navLabel><text>2016 (37)</text></navLabel><content src="archive/2016.html" /></navPoint>

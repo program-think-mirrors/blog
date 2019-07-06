@@ -2,7 +2,7 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="zh-CN">
 <head>
-<meta name="dtb:uid" content="http://program-think.blogspot.com/2019/06/" />
+<meta name="dtb:uid" content="http://program-think.blogspot.com/2019/07/" />
 <meta name="dtb:depth" content="4" />
 <meta name="dtb:totalPageCount" content="0" />
 <meta name="dtb:maxPageNumber" content="0" />
@@ -28,14 +28,14 @@
 <navPoint id="tag-IT.E7BFBBE5A299" playOrder="8"><navLabel><text>IT.翻墙 (47)</text></navLabel><content src="tags/IT.E7BFBBE5A299.html" /></navPoint>
 <navPoint id="tag-IT.E8BDAFE4BBB6E4BB8BE7BB8D" playOrder="9"><navLabel><text>IT.软件介绍 (43)</text></navLabel><content src="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html" /></navPoint>
 <navPoint id="tag-E4B9A6E8AF842FE5BDB1E8AF84" playOrder="10"><navLabel><text>书评/影评 (52)</text></navLabel><content src="tags/E4B9A6E8AF842FE5BDB1E8AF84.html" /></navPoint>
-<navPoint id="tag-E5869BE4BA8B" playOrder="11"><navLabel><text>军事 (9)</text></navLabel><content src="tags/E5869BE4BA8B.html" /></navPoint>
+<navPoint id="tag-E5869BE4BA8B" playOrder="11"><navLabel><text>军事 (10)</text></navLabel><content src="tags/E5869BE4BA8B.html" /></navPoint>
 <navPoint id="tag-E58D9AE5AEA2E9809AE5918A" playOrder="12"><navLabel><text>博客通告 (32)</text></navLabel><content src="tags/E58D9AE5AEA2E9809AE5918A.html" /></navPoint>
 <navPoint id="tag-E58E86E58FB2" playOrder="13"><navLabel><text>历史 (75)</text></navLabel><content src="tags/E58E86E58FB2.html" /></navPoint>
-<navPoint id="tag-E5A496E4BAA4" playOrder="14"><navLabel><text>外交 (13)</text></navLabel><content src="tags/E5A496E4BAA4.html" /></navPoint>
+<navPoint id="tag-E5A496E4BAA4" playOrder="14"><navLabel><text>外交 (14)</text></navLabel><content src="tags/E5A496E4BAA4.html" /></navPoint>
 <navPoint id="tag-E5ADA6E4B9A0E696B9E6B395" playOrder="15"><navLabel><text>学习方法 (11)</text></navLabel><content src="tags/E5ADA6E4B9A0E696B9E6B395.html" /></navPoint>
 <navPoint id="tag-E5ADA6E4BC9AE6809DE88083" playOrder="16"><navLabel><text>学会思考 (22)</text></navLabel><content src="tags/E5ADA6E4BC9AE6809DE88083.html" /></navPoint>
 <navPoint id="tag-E5BF83E79086E5ADA6" playOrder="17"><navLabel><text>心理学 (29)</text></navLabel><content src="tags/E5BF83E79086E5ADA6.html" /></navPoint>
-<navPoint id="tag-E694BFE6B2BB" playOrder="18"><navLabel><text>政治 (234)</text></navLabel><content src="tags/E694BFE6B2BB.html" /></navPoint>
+<navPoint id="tag-E694BFE6B2BB" playOrder="18"><navLabel><text>政治 (235)</text></navLabel><content src="tags/E694BFE6B2BB.html" /></navPoint>
 <navPoint id="tag-E694BFE6B2BB.E585ABE58DA6" playOrder="19"><navLabel><text>政治.八卦 (19)</text></navLabel><content src="tags/E694BFE6B2BB.E585ABE58DA6.html" /></navPoint>
 <navPoint id="tag-E694BFE6B2BB.E585B1E4BAA7E8BF90E58AA8" playOrder="20"><navLabel><text>政治.共产运动 (12)</text></navLabel><content src="tags/E694BFE6B2BB.E585B1E4BAA7E8BF90E58AA8.html" /></navPoint>
 <navPoint id="tag-E694BFE6B2BB.E5B8B8E8AF86" playOrder="21"><navLabel><text>政治.常识 (21)</text></navLabel><content src="tags/E694BFE6B2BB.E5B8B8E8AF86.html" /></navPoint>
@@ -48,7 +48,7 @@
 <navPoint id="tag-E78EAFE4BF9D" playOrder="28"><navLabel><text>环保 (13)</text></navLabel><content src="tags/E78EAFE4BF9D.html" /></navPoint>
 <navPoint id="tag-E7A791E699AE" playOrder="29"><navLabel><text>科普 (5)</text></navLabel><content src="tags/E7A791E699AE.html" /></navPoint>
 <navPoint id="tag-E7AEA1E79086" playOrder="30"><navLabel><text>管理 (16)</text></navLabel><content src="tags/E7AEA1E79086.html" /></navPoint>
-<navPoint id="tag-E7BB8FE6B58E" playOrder="31"><navLabel><text>经济 (31)</text></navLabel><content src="tags/E7BB8FE6B58E.html" /></navPoint>
+<navPoint id="tag-E7BB8FE6B58E" playOrder="31"><navLabel><text>经济 (32)</text></navLabel><content src="tags/E7BB8FE6B58E.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B" playOrder="32"><navLabel><text>编程 (68)</text></navLabel><content src="tags/E7BC96E7A88B.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.C" playOrder="33"><navLabel><text>编程.C (15)</text></navLabel><content src="tags/E7BC96E7A88B.C.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.Java" playOrder="34"><navLabel><text>编程.Java (12)</text></navLabel><content src="tags/E7BC96E7A88B.Java.html" /></navPoint>
@@ -165,7 +165,7 @@
 <navPoint id="archive" playOrder="141">
 <navLabel><text>历史归档</text></navLabel>
 <content src="" />
-<navPoint id="archive-2019" playOrder="142"><navLabel><text>2019 (19)</text></navLabel><content src="archive/2019.html" /></navPoint>
+<navPoint id="archive-2019" playOrder="142"><navLabel><text>2019 (20)</text></navLabel><content src="archive/2019.html" /></navPoint>
 <navPoint id="archive-2018" playOrder="143"><navLabel><text>2018 (31)</text></navLabel><content src="archive/2018.html" /></navPoint>
 <navPoint id="archive-2017" playOrder="144"><navLabel><text>2017 (34)</text></navLabel><content src="archive/2017.html" /></navPoint>
 <navPoint id="archive-2016" playOrder="145"><navLabel><text>2016 (37)</text></navLabel><content src="archive/2016.html" /></navPoint>

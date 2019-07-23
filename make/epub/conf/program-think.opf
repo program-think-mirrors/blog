@@ -6,13 +6,13 @@
 <dc:language>zh</dc:language>
 <dc:creator opf:role="aut">编程随想</dc:creator>
 <dc:publisher>编程随想</dc:publisher>
-<dc:description>本书制作于 2019-07-12
+<dc:description>本书制作于 2019-07-23
 （正常情况下，每个月都会更新，以包含俺博客上的所有博文）。
 要想【自动】获取俺博客的离线版本，请参见本电子书首页上的介绍（基于 BT Sync 自动同步）。
 </dc:description>
 <dc:subject>个人博客</dc:subject>
 <dc:source>http://program-think.blogspot.com/</dc:source>
-<dc:date opf:event="publication">2019-07-12</dc:date>
+<dc:date opf:event="publication">2019-07-23</dc:date>
 <dc:rights>本博客所有的原创文章，作者皆保留版权。转载博文必须包含本声明，保持博文的完整，并以超链接形式注明作者“编程随想”和该博文的原始网址</dc:rights>
 <dc:contributor></dc:contributor>
 <dc:type></dc:type>
@@ -27,6 +27,7 @@
 <item id="index" href="index.html" media-type="application/xhtml+xml" />
 <item id="cover-image" href="images/cover.jpg" media-type="image/jpeg" />
 <item id="css" href="css/program-think.css" media-type="text/css" />
+<item id="post-2019-07-Customize-Firefox" href="2019/07/Customize-Firefox.html" media-type="application/xhtml+xml" />
 <item id="post-2019-07-Security-News" href="2019/07/Security-News.html" media-type="application/xhtml+xml" />
 <item id="post-2019-07-Misunderstand-China-USA-Relations" href="2019/07/Misunderstand-China-USA-Relations.html" media-type="application/xhtml+xml" />
 <item id="post-2019-06-weekly-share-133" href="2019/06/weekly-share-133.html" media-type="application/xhtml+xml" />
@@ -5053,6 +5054,7 @@
 </manifest>
 <spine toc="ncx">
 <itemref idref="index" linear="yes"/>
+<itemref idref="post-2019-07-Customize-Firefox" linear="yes"/>
 <itemref idref="post-2019-07-Security-News" linear="yes"/>
 <itemref idref="post-2019-07-Misunderstand-China-USA-Relations" linear="yes"/>
 <itemref idref="post-2019-06-weekly-share-133" linear="yes"/>

@@ -148,9 +148,8 @@ a:visited {
 
 
 /*--@ Source code syntax highlight @--*/
-
+.source pre { background: DarkSlateGray; }
 .source .hll { background-color: LightYellow; }
-.source  { background: DarkSlateGray; }
 .source .k { color: DodgerBlue; font-weight: bold; } /* Keyword */
 .source .kt { color: DodgerBlue; font-weight: bold; } /* Keyword.Type */
 .source .kn { color: DodgerBlue; font-weight: bold; } /* Keyword.Namespace */

@@ -48,7 +48,7 @@
 <navPoint id="tag-E78EAFE4BF9D" playOrder="28"><navLabel><text>环保 (13)</text></navLabel><content src="tags/E78EAFE4BF9D.html" /></navPoint>
 <navPoint id="tag-E7A791E699AE" playOrder="29"><navLabel><text>科普 (5)</text></navLabel><content src="tags/E7A791E699AE.html" /></navPoint>
 <navPoint id="tag-E7AEA1E79086" playOrder="30"><navLabel><text>管理 (16)</text></navLabel><content src="tags/E7AEA1E79086.html" /></navPoint>
-<navPoint id="tag-E7BB8FE6B58E" playOrder="31"><navLabel><text>经济 (32)</text></navLabel><content src="tags/E7BB8FE6B58E.html" /></navPoint>
+<navPoint id="tag-E7BB8FE6B58E" playOrder="31"><navLabel><text>经济 (33)</text></navLabel><content src="tags/E7BB8FE6B58E.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B" playOrder="32"><navLabel><text>编程 (68)</text></navLabel><content src="tags/E7BC96E7A88B.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.C" playOrder="33"><navLabel><text>编程.C (15)</text></navLabel><content src="tags/E7BC96E7A88B.C.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.Java" playOrder="34"><navLabel><text>编程.Java (12)</text></navLabel><content src="tags/E7BC96E7A88B.Java.html" /></navPoint>
@@ -165,7 +165,7 @@
 <navPoint id="archive" playOrder="141">
 <navLabel><text>历史归档</text></navLabel>
 <content src="" />
-<navPoint id="archive-2019" playOrder="142"><navLabel><text>2019 (24)</text></navLabel><content src="archive/2019.html" /></navPoint>
+<navPoint id="archive-2019" playOrder="142"><navLabel><text>2019 (25)</text></navLabel><content src="archive/2019.html" /></navPoint>
 <navPoint id="archive-2018" playOrder="143"><navLabel><text>2018 (31)</text></navLabel><content src="archive/2018.html" /></navPoint>
 <navPoint id="archive-2017" playOrder="144"><navLabel><text>2017 (34)</text></navLabel><content src="archive/2017.html" /></navPoint>
 <navPoint id="archive-2016" playOrder="145"><navLabel><text>2016 (37)</text></navLabel><content src="archive/2016.html" /></navPoint>

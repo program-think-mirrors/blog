@@ -35,13 +35,11 @@ h4 {
   text-align: left;
   font-weight: normal;
 }
-
 .post-info .date-header {
   font-size: 125%;
   padding: 1px 50px 1px 20px;
   color: Gray;
 }
-
 .post-info .tag {
   font-size: 100%;
   padding: 1px;
@@ -76,21 +74,28 @@ h4 {
   padding: 0px 0px 0px 22px;
 }
 
+.post blockquote, .post q, .post pre, .post code {
+  background-color: #DDD;
+}
 .post blockquote {
-  margin-left: 2em;
-  margin-right: 2em;
-  background-color: #DDDDDD;
+  margin: 1em 2em;
   border: 0px none;
 }
-.post q {
-  background-color: #DDDDDD;
-}
-
 .post pre, .post code {
-  background-color: #DDDDDD;
-  font-family: Courier,monospace;
+  font-family: "DejaVu Sans Mono", Monaco, Menlo, Consolas, "Lucida Console", Courier, monospace;
 }
-
+.post pre {
+  overflow-x: auto;
+  padding: 0.5em 1em;
+  border: 0px none;
+}
+.post pre.shell {
+  background-color: Black;
+  color: LawnGreen;
+  border: 4px ridge Gray;
+  padding: 1em;
+  overflow-y: scroll;
+}
 
 .post a[target="_blank"] {
   background: transparent url(../images/external_link.gif) no-repeat scroll right center;
@@ -111,6 +116,7 @@ a img {
 a:visited {
   color: #800080;
 }
+
 #sidebar a {
   color: #0066FF;
 }
@@ -120,6 +126,7 @@ a:visited {
 #sidebar a:hover {
   color: #88BBFF;
 }
+
 #sidebar {
   text-transform: none;
   background-color: White;
@@ -145,7 +152,6 @@ a:visited {
 .sidebar .widget {
   padding: 4px 8px 0px 0px;
 }
-
 
 /*--@ Source code syntax highlight @--*/
 .source pre { background: DarkSlateGray; }

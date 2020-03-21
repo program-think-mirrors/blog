@@ -2,7 +2,7 @@
 <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/" xml:lang="zh-CN">
 <head>
-<meta name="dtb:uid" content="http://program-think.blogspot.com/2019/10/" />
+<meta name="dtb:uid" content="http://program-think.blogspot.com/2020/03/" />
 <meta name="dtb:depth" content="4" />
 <meta name="dtb:totalPageCount" content="0" />
 <meta name="dtb:maxPageNumber" content="0" />
@@ -20,36 +20,36 @@
 <navPoint id="tag" playOrder="2">
 <navLabel><text>分类标签</text></navLabel>
 <content src="" />
-<navPoint id="tag-IT" playOrder="3"><navLabel><text>IT (192)</text></navLabel><content src="tags/IT.html" /></navPoint>
-<navPoint id="tag-IT.Linux" playOrder="4"><navLabel><text>IT.Linux (5)</text></navLabel><content src="tags/IT.Linux.html" /></navPoint>
+<navPoint id="tag-IT" playOrder="3"><navLabel><text>IT (194)</text></navLabel><content src="tags/IT.html" /></navPoint>
+<navPoint id="tag-IT.Linux" playOrder="4"><navLabel><text>IT.Linux (6)</text></navLabel><content src="tags/IT.Linux.html" /></navPoint>
 <navPoint id="tag-IT.E4B89AE7958CE8AF84E8AEBA" playOrder="5"><navLabel><text>IT.业界评论 (15)</text></navLabel><content src="tags/IT.E4B89AE7958CE8AF84E8AEBA.html" /></navPoint>
 <navPoint id="tag-IT.E4BABAE5B7A5E699BAE883BD" playOrder="6"><navLabel><text>IT.人工智能 (3)</text></navLabel><content src="tags/IT.E4BABAE5B7A5E699BAE883BD.html" /></navPoint>
-<navPoint id="tag-IT.E4BFA1E681AFE5AE89E585A8" playOrder="7"><navLabel><text>IT.信息安全 (90)</text></navLabel><content src="tags/IT.E4BFA1E681AFE5AE89E585A8.html" /></navPoint>
+<navPoint id="tag-IT.E4BFA1E681AFE5AE89E585A8" playOrder="7"><navLabel><text>IT.信息安全 (91)</text></navLabel><content src="tags/IT.E4BFA1E681AFE5AE89E585A8.html" /></navPoint>
 <navPoint id="tag-IT.E7BFBBE5A299" playOrder="8"><navLabel><text>IT.翻墙 (48)</text></navLabel><content src="tags/IT.E7BFBBE5A299.html" /></navPoint>
-<navPoint id="tag-IT.E8BDAFE4BBB6E4BB8BE7BB8D" playOrder="9"><navLabel><text>IT.软件介绍 (45)</text></navLabel><content src="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html" /></navPoint>
+<navPoint id="tag-IT.E8BDAFE4BBB6E4BB8BE7BB8D" playOrder="9"><navLabel><text>IT.软件介绍 (46)</text></navLabel><content src="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html" /></navPoint>
 <navPoint id="tag-E4B9A6E8AF842FE5BDB1E8AF84" playOrder="10"><navLabel><text>书评/影评 (53)</text></navLabel><content src="tags/E4B9A6E8AF842FE5BDB1E8AF84.html" /></navPoint>
-<navPoint id="tag-E5869BE4BA8B" playOrder="11"><navLabel><text>军事 (14)</text></navLabel><content src="tags/E5869BE4BA8B.html" /></navPoint>
-<navPoint id="tag-E58D9AE5AEA2E9809AE5918A" playOrder="12"><navLabel><text>博客通告 (32)</text></navLabel><content src="tags/E58D9AE5AEA2E9809AE5918A.html" /></navPoint>
-<navPoint id="tag-E58E86E58FB2" playOrder="13"><navLabel><text>历史 (75)</text></navLabel><content src="tags/E58E86E58FB2.html" /></navPoint>
+<navPoint id="tag-E5869BE4BA8B" playOrder="11"><navLabel><text>军事 (15)</text></navLabel><content src="tags/E5869BE4BA8B.html" /></navPoint>
+<navPoint id="tag-E58D9AE5AEA2E9809AE5918A" playOrder="12"><navLabel><text>博客通告 (33)</text></navLabel><content src="tags/E58D9AE5AEA2E9809AE5918A.html" /></navPoint>
+<navPoint id="tag-E58E86E58FB2" playOrder="13"><navLabel><text>历史 (77)</text></navLabel><content src="tags/E58E86E58FB2.html" /></navPoint>
 <navPoint id="tag-E5A496E4BAA4" playOrder="14"><navLabel><text>外交 (21)</text></navLabel><content src="tags/E5A496E4BAA4.html" /></navPoint>
-<navPoint id="tag-E5ADA6E4B9A0E696B9E6B395" playOrder="15"><navLabel><text>学习方法 (11)</text></navLabel><content src="tags/E5ADA6E4B9A0E696B9E6B395.html" /></navPoint>
+<navPoint id="tag-E5ADA6E4B9A0E696B9E6B395" playOrder="15"><navLabel><text>学习方法 (13)</text></navLabel><content src="tags/E5ADA6E4B9A0E696B9E6B395.html" /></navPoint>
 <navPoint id="tag-E5ADA6E4BC9AE6809DE88083" playOrder="16"><navLabel><text>学会思考 (23)</text></navLabel><content src="tags/E5ADA6E4BC9AE6809DE88083.html" /></navPoint>
 <navPoint id="tag-E5BF83E79086E5ADA6" playOrder="17"><navLabel><text>心理学 (30)</text></navLabel><content src="tags/E5BF83E79086E5ADA6.html" /></navPoint>
-<navPoint id="tag-E694BFE6B2BB" playOrder="18"><navLabel><text>政治 (253)</text></navLabel><content src="tags/E694BFE6B2BB.html" /></navPoint>
+<navPoint id="tag-E694BFE6B2BB" playOrder="18"><navLabel><text>政治 (261)</text></navLabel><content src="tags/E694BFE6B2BB.html" /></navPoint>
 <navPoint id="tag-E694BFE6B2BB.E585ABE58DA6" playOrder="19"><navLabel><text>政治.八卦 (19)</text></navLabel><content src="tags/E694BFE6B2BB.E585ABE58DA6.html" /></navPoint>
-<navPoint id="tag-E694BFE6B2BB.E585B1E4BAA7E8BF90E58AA8" playOrder="20"><navLabel><text>政治.共产运动 (11)</text></navLabel><content src="tags/E694BFE6B2BB.E585B1E4BAA7E8BF90E58AA8.html" /></navPoint>
+<navPoint id="tag-E694BFE6B2BB.E585B1E4BAA7E8BF90E58AA8" playOrder="20"><navLabel><text>政治.共产运动 (12)</text></navLabel><content src="tags/E694BFE6B2BB.E585B1E4BAA7E8BF90E58AA8.html" /></navPoint>
 <navPoint id="tag-E694BFE6B2BB.E5B8B8E8AF86" playOrder="21"><navLabel><text>政治.常识 (21)</text></navLabel><content src="tags/E694BFE6B2BB.E5B8B8E8AF86.html" /></navPoint>
 <navPoint id="tag-E694BFE6B2BB.E69D83E8B4B5" playOrder="22"><navLabel><text>政治.权贵 (27)</text></navLabel><content src="tags/E694BFE6B2BB.E69D83E8B4B5.html" /></navPoint>
-<navPoint id="tag-E694BFE6B2BB.E6B395E588B6" playOrder="23"><navLabel><text>政治.法制 (16)</text></navLabel><content src="tags/E694BFE6B2BB.E6B395E588B6.html" /></navPoint>
+<navPoint id="tag-E694BFE6B2BB.E6B395E588B6" playOrder="23"><navLabel><text>政治.法制 (18)</text></navLabel><content src="tags/E694BFE6B2BB.E6B395E588B6.html" /></navPoint>
 <navPoint id="tag-E694BFE6B2BB.E79C9FE79086E983A8" playOrder="24"><navLabel><text>政治.真理部 (37)</text></navLabel><content src="tags/E694BFE6B2BB.E79C9FE79086E983A8.html" /></navPoint>
-<navPoint id="tag-E694BFE6B2BB.E88590E8B4A5" playOrder="25"><navLabel><text>政治.腐败 (21)</text></navLabel><content src="tags/E694BFE6B2BB.E88590E8B4A5.html" /></navPoint>
-<navPoint id="tag-E69599E882B2" playOrder="26"><navLabel><text>教育 (5)</text></navLabel><content src="tags/E69599E882B2.html" /></navPoint>
-<navPoint id="tag-E697B6E4BA8BE8AF84E8AEBA" playOrder="27"><navLabel><text>时事评论 (151)</text></navLabel><content src="tags/E697B6E4BA8BE8AF84E8AEBA.html" /></navPoint>
+<navPoint id="tag-E694BFE6B2BB.E88590E8B4A5" playOrder="25"><navLabel><text>政治.腐败 (23)</text></navLabel><content src="tags/E694BFE6B2BB.E88590E8B4A5.html" /></navPoint>
+<navPoint id="tag-E69599E882B2" playOrder="26"><navLabel><text>教育 (6)</text></navLabel><content src="tags/E69599E882B2.html" /></navPoint>
+<navPoint id="tag-E697B6E4BA8BE8AF84E8AEBA" playOrder="27"><navLabel><text>时事评论 (159)</text></navLabel><content src="tags/E697B6E4BA8BE8AF84E8AEBA.html" /></navPoint>
 <navPoint id="tag-E78EAFE4BF9D" playOrder="28"><navLabel><text>环保 (13)</text></navLabel><content src="tags/E78EAFE4BF9D.html" /></navPoint>
 <navPoint id="tag-E7A791E699AE" playOrder="29"><navLabel><text>科普 (5)</text></navLabel><content src="tags/E7A791E699AE.html" /></navPoint>
 <navPoint id="tag-E7AEA1E79086" playOrder="30"><navLabel><text>管理 (16)</text></navLabel><content src="tags/E7AEA1E79086.html" /></navPoint>
-<navPoint id="tag-E7BB8FE6B58E" playOrder="31"><navLabel><text>经济 (37)</text></navLabel><content src="tags/E7BB8FE6B58E.html" /></navPoint>
-<navPoint id="tag-E7BC96E7A88B" playOrder="32"><navLabel><text>编程 (68)</text></navLabel><content src="tags/E7BC96E7A88B.html" /></navPoint>
+<navPoint id="tag-E7BB8FE6B58E" playOrder="31"><navLabel><text>经济 (39)</text></navLabel><content src="tags/E7BB8FE6B58E.html" /></navPoint>
+<navPoint id="tag-E7BC96E7A88B" playOrder="32"><navLabel><text>编程 (69)</text></navLabel><content src="tags/E7BC96E7A88B.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.C" playOrder="33"><navLabel><text>编程.C (15)</text></navLabel><content src="tags/E7BC96E7A88B.C.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.Java" playOrder="34"><navLabel><text>编程.Java (12)</text></navLabel><content src="tags/E7BC96E7A88B.Java.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.Python" playOrder="35"><navLabel><text>编程.Python (8)</text></navLabel><content src="tags/E7BC96E7A88B.Python.html" /></navPoint>
@@ -59,123 +59,28 @@
 <navPoint id="tag-E7BC96E7A88B.E69EB6E69E84" playOrder="39"><navLabel><text>编程.架构 (7)</text></navLabel><content src="tags/E7BC96E7A88B.E69EB6E69E84.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.E7AE97E6B395" playOrder="40"><navLabel><text>编程.算法 (3)</text></navLabel><content src="tags/E7BC96E7A88B.E7AE97E6B395.html" /></navPoint>
 <navPoint id="tag-E7BC96E7A88B.E8BDAFE4BBB6E5B7A5E7A88B" playOrder="41"><navLabel><text>编程.软件工程 (13)</text></navLabel><content src="tags/E7BC96E7A88B.E8BDAFE4BBB6E5B7A5E7A88B.html" /></navPoint>
-<navPoint id="tag-E8818CE59CBAE782B9E6BBB4" playOrder="42"><navLabel><text>职场点滴 (19)</text></navLabel><content src="tags/E8818CE59CBAE782B9E6BBB4.html" /></navPoint>
-<navPoint id="tag-E8BDACE8BDBD" playOrder="43"><navLabel><text>转载 (139)</text></navLabel><content src="tags/E8BDACE8BDBD.html" /></navPoint>
+<navPoint id="tag-E8818CE59CBAE782B9E6BBB4" playOrder="42"><navLabel><text>职场点滴 (21)</text></navLabel><content src="tags/E8818CE59CBAE782B9E6BBB4.html" /></navPoint>
+<navPoint id="tag-E8BDACE8BDBD" playOrder="43"><navLabel><text>转载 (144)</text></navLabel><content src="tags/E8BDACE8BDBD.html" /></navPoint>
 </navPoint>
 <navPoint id="recommend" playOrder="44">
 <navLabel><text>推荐帖子</text></navLabel>
 <content src="" />
-<navPoint id="recommend-E7BFBBE5A299E68A80E69CAF" playOrder="45"><navLabel><text>翻墙技术</text></navLabel><content src="" /><navPoint id="post-2009-05-how-to-break-through-gfw" playOrder="46"><navLabel><text>如何翻墙 (全方位入门扫盲)</text></navLabel><content src="2009/05/how-to-break-through-gfw.html" /></navPoint>
-<navPoint id="post-2011-09-gfw-faq" playOrder="47"><navLabel><text>常见翻墙问题答疑</text></navLabel><content src="2011/09/gfw-faq.html" /></navPoint>
-<navPoint id="post-2011-03-how-to-get-gfw-tools" playOrder="48"><navLabel><text>获取翻墙软件方法大全</text></navLabel><content src="2011/03/how-to-get-gfw-tools.html" /></navPoint>
-<navPoint id="post-2013-01-cross-host-use-gfw-tool" playOrder="49"><navLabel><text>多台电脑如何共享翻墙通道</text></navLabel><content src="2013/01/cross-host-use-gfw-tool.html" /></navPoint>
-<navPoint id="post-2013-11-tor-faq" playOrder="50"><navLabel><text>关于 TOR 的常见问题解答</text></navLabel><content src="2013/11/tor-faq.html" /></navPoint>
-<navPoint id="post-2009-07-break-through-berlin-wall" playOrder="51"><navLabel><text>学习一下德国人民的翻墙精神</text></navLabel><content src="2009/07/break-through-berlin-wall.html" /></navPoint>
 </navPoint>
-<navPoint id="recommend-E4BFA1E681AFE5AE89E585A8E4B88EE7BD91E7BB9CE5AE89E585A8" playOrder="52"><navLabel><text>信息安全与网络安全</text></navLabel><content src="" /><navPoint id="post-2015-08-Technology-and-Freedom" playOrder="53"><navLabel><text>&quot;对抗专制、捍卫自由&quot;的 N 种技术力量</text></navLabel><content src="2015/08/Technology-and-Freedom.html" /></navPoint>
-<navPoint id="post-2019-01-Security-Guide-for-Political-Activists" playOrder="54"><navLabel><text>为啥朝廷总抓不到俺——十年反党活动的安全经验汇总</text></navLabel><content src="2019/01/Security-Guide-for-Political-Activists.html" /></navPoint>
-<navPoint id="post-2010-06-howto-prevent-hacker-attack-0" playOrder="55"><navLabel><text>如何防止黑客入侵 (系列)</text></navLabel><content src="2010/06/howto-prevent-hacker-attack-0.html" /></navPoint>
-<navPoint id="post-2013-06-privacy-protection-0" playOrder="56"><navLabel><text>如何保护隐私 (系列)</text></navLabel><content src="2013/06/privacy-protection-0.html" /></navPoint>
-<navPoint id="post-2010-04-howto-cover-your-tracks-0" playOrder="57"><navLabel><text>如何隐藏你的踪迹，避免跨省追捕 (系列)</text></navLabel><content src="2010/04/howto-cover-your-tracks-0.html" /></navPoint>
-<navPoint id="post-2012-10-system-vm-0" playOrder="58"><navLabel><text>扫盲操作系统虚拟机 (系列)</text></navLabel><content src="2012/10/system-vm-0.html" /></navPoint>
-<navPoint id="post-2015-10-VeraCrypt" playOrder="59"><navLabel><text>扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品</text></navLabel><content src="2015/10/VeraCrypt.html" /></navPoint>
-<navPoint id="post-2011-05-recommend-truecrypt.html#" playOrder="60"><navLabel><text>TrueCrypt 的扫盲教程和高级教程 (也适用于 VeraCrypt)</text></navLabel><content src="2011/05/recommend-truecrypt.html#index" /></navPoint>
-<navPoint id="post-2011-05-file-encryption-overview" playOrder="61"><navLabel><text>文件加密的扫盲介绍</text></navLabel><content src="2011/05/file-encryption-overview.html" /></navPoint>
-<navPoint id="post-2013-07-online-backup-virtual-encrypted-disk" playOrder="62"><navLabel><text>文件备份技巧：组合&quot;虚拟加密盘&quot;和&quot;网盘&quot;</text></navLabel><content src="2013/07/online-backup-virtual-encrypted-disk.html" /></navPoint>
-<navPoint id="post-2013-02-file-integrity-check" playOrder="63"><navLabel><text>扫盲文件完整性校验——关于散列值和数字签名</text></navLabel><content src="2013/02/file-integrity-check.html" /></navPoint>
-<navPoint id="post-2009-05-social-engineering-0-overview" playOrder="64"><navLabel><text>扫盲&quot;社会工程学&quot; (系列)</text></navLabel><content src="2009/05/social-engineering-0-overview.html" /></navPoint>
-</navPoint>
-<navPoint id="recommend-E68F90E58D87E4B8AAE4BABAE883BDE58A9B" playOrder="65"><navLabel><text>提升个人能力</text></navLabel><content src="" /><navPoint id="post-2013-09-knowledge-structure" playOrder="66"><navLabel><text>如何完善自己的知识结构</text></navLabel><content src="2013/09/knowledge-structure.html" /></navPoint>
-<navPoint id="post-2013-04-how-to-read-book" playOrder="67"><navLabel><text>《如何阅读一本书》——书评及内容纲要</text></navLabel><content src="2013/04/how-to-read-book.html" /></navPoint>
-<navPoint id="post-2015-12-Hobbies-and-Interests" playOrder="68"><navLabel><text>什么是【真正的】兴趣爱好？以及它有啥好处？</text></navLabel><content src="2015/12/Hobbies-and-Interests.html" /></navPoint>
-<navPoint id="post-2009-02-study-technology-in-three-steps" playOrder="69"><navLabel><text>学习技术的三部曲：WHAT、HOW、WHY</text></navLabel><content src="2009/02/study-technology-in-three-steps.html" /></navPoint>
-<navPoint id="post-2012-03-think-what-how-why" playOrder="70"><navLabel><text>用提问促进思维——再谈 WHAT HOW WHY 三部曲</text></navLabel><content src="2012/03/think-what-how-why.html" /></navPoint>
-<navPoint id="post-2015-06-The-Mythical-Theories-of-Success" playOrder="71"><navLabel><text>成功学批判——简述其危害性及各种谬误</text></navLabel><content src="2015/06/The-Mythical-Theories-of-Success.html" /></navPoint>
-<navPoint id="post-2018-12-Book-Review-Antifragile-Things-That-Gain-from-Disorder" playOrder="72"><navLabel><text>读书笔记：《反脆弱——从不确定性中获益》</text></navLabel><content src="2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.html" /></navPoint>
-<navPoint id="post-2018-06-weekly-share-121" playOrder="73"><navLabel><text>德鲁克谈【自我管理】——《哈佛商业评论》最受欢迎文章</text></navLabel><content src="2018/06/weekly-share-121.html" /></navPoint>
-<navPoint id="post-2009-07-book-review-are-your-lights-on" playOrder="74"><navLabel><text>书评：《你的灯亮着吗？——找到问题的真正所在》</text></navLabel><content src="2009/07/book-review-are-your-lights-on.html" /></navPoint>
-<navPoint id="post-2009-01-0" playOrder="75"><navLabel><text>如何成为优秀开发人员(系列)</text></navLabel><content src="2009/01/0.html" /></navPoint>
-</navPoint>
-<navPoint id="recommend-E6B497E88491E4B88EE58F8DE6B497E88491" playOrder="76"><navLabel><text>洗脑与反洗脑</text></navLabel><content src="" /><navPoint id="post-2010-10-book-review-asking-right-questions" playOrder="77"><navLabel><text>书评：《学会提问——批判性思维指南》</text></navLabel><content src="2010/10/book-review-asking-right-questions.html" /></navPoint>
-<navPoint id="post-2013-05-difference-between-fact-and-opinion" playOrder="78"><navLabel><text>批判性思维扫盲：学会区分&quot;事实&quot;与&quot;观点&quot;</text></navLabel><content src="2013/05/difference-between-fact-and-opinion.html" /></navPoint>
-<navPoint id="post-2011-03-logical-fallacies" playOrder="79"><navLabel><text>扫盲逻辑谬误——以五毛言论为反面教材</text></navLabel><content src="2011/03/logical-fallacies.html" /></navPoint>
-<navPoint id="post-2014-02-brainwash-and-idiot" playOrder="80"><navLabel><text>聊聊洗脑和脑残——分析&quot;脑残的起源&quot;和&quot;脑残的觉醒&quot;</text></navLabel><content src="2014/02/brainwash-and-idiot.html" /></navPoint>
-<navPoint id="post-2014-12-brainwash-using-real-data" playOrder="81"><navLabel><text>比&quot;欺骗&quot;更狡猾的洗脑——基于【真实数据】进行忽悠</text></navLabel><content src="2014/12/brainwash-using-real-data.html" /></navPoint>
-<navPoint id="post-2014-01-doublethink" playOrder="82"><navLabel><text>比&quot;欺骗&quot;更有效的洗脑——基于【双重思想】的思维控制</text></navLabel><content src="2014/01/doublethink.html" /></navPoint>
-<navPoint id="post-2014-01-anti-brainwashing-and-enlightenment" playOrder="83"><navLabel><text>如何用互联网进行&quot;反洗脑&quot;和&quot;政治启蒙&quot;</text></navLabel><content src="2014/01/anti-brainwashing-and-enlightenment.html" /></navPoint>
-</navPoint>
-<navPoint id="recommend-E5BF83E79086E5ADA6" playOrder="84"><navLabel><text>心理学</text></navLabel><content src="" /><navPoint id="post-2019-03-Why-Thinking-Hard-So-Hard" playOrder="85"><navLabel><text>为什么独立思考这么难——谈谈心理学的成因，并分享俺的经验</text></navLabel><content src="2019/03/Why-Thinking-Hard-So-Hard.html" /></navPoint>
-<navPoint id="post-2012-12-emperor-complex" playOrder="86"><navLabel><text>天朝民众的心理分析：圣君情结</text></navLabel><content src="2012/12/emperor-complex.html" /></navPoint>
-<navPoint id="post-2012-06-stockholm-syndrome" playOrder="87"><navLabel><text>天朝民众的心理分析：斯德哥尔摩综合症</text></navLabel><content src="2012/06/stockholm-syndrome.html" /></navPoint>
-<navPoint id="post-2014-05-fans-and-idolatry" playOrder="88"><navLabel><text>不要成为&quot;粉丝&quot;——谈谈&quot;偶像崇拜&quot;的成因和危害</text></navLabel><content src="2014/05/fans-and-idolatry.html" /></navPoint>
-<navPoint id="post-2014-09-oversimplification" playOrder="89"><navLabel><text>各种【一元化思维】的谬误——从&quot;星座理论&quot;到&quot;共产主义社会&quot;</text></navLabel><content src="2014/09/oversimplification.html" /></navPoint>
-<navPoint id="post-2015-05-Survivorship-Bias" playOrder="90"><navLabel><text>思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</text></navLabel><content src="2015/05/Survivorship-Bias.html" /></navPoint>
-<navPoint id="post-2014-06-sunk-cost-fallacy-and-loss-aversion" playOrder="91"><navLabel><text>思维的误区：从&quot;沉没成本谬误&quot;到&quot;损失厌恶情结&quot;</text></navLabel><content src="2014/06/sunk-cost-fallacy-and-loss-aversion.html" /></navPoint>
-<navPoint id="post-2010-02-about-mental-model" playOrder="92"><navLabel><text>认识你自己——有关心智模式的扫盲介绍</text></navLabel><content src="2010/02/about-mental-model.html" /></navPoint>
-<navPoint id="post-2010-04-how-to-attribute-success-failure" playOrder="93"><navLabel><text>你是如何看待【成败】的？——兼谈【有效归因】</text></navLabel><content src="2010/04/how-to-attribute-success-failure.html" /></navPoint>
-<navPoint id="post-2012-01-stockdale-paradox" playOrder="94"><navLabel><text>如何面对【逆境】？——兼谈&quot;斯托克戴尔悖论&quot;</text></navLabel><content src="2012/01/stockdale-paradox.html" /></navPoint>
-<navPoint id="post-2012-06-book-review-road-less-traveled" playOrder="95"><navLabel><text>书评：《少有人走的路——心智成熟的旅程》</text></navLabel><content src="2012/06/book-review-road-less-traveled.html" /></navPoint>
-<navPoint id="post-2009-05-halo-effect" playOrder="96"><navLabel><text>光环效应引发的认知误区</text></navLabel><content src="2009/05/halo-effect.html" /></navPoint>
-</navPoint>
-<navPoint id="recommend-E694BFE6B2BB" playOrder="97"><navLabel><text>政治</text></navLabel><content src="" /><navPoint id="post-2011-06-june-fourth-incident-0" playOrder="98"><navLabel><text>回顾&quot;六四&quot; (系列)</text></navLabel><content src="2011/06/june-fourth-incident-0.html" /></navPoint>
-<navPoint id="post-2011-12-revolution-0" playOrder="99"><navLabel><text>谈革命 (系列)</text></navLabel><content src="2011/12/revolution-0.html" /></navPoint>
-<navPoint id="post-2018-09-Book-Review-The-Errors-of-Marxism-Leninism" playOrder="100"><navLabel><text>为什么马克思是错的——全面批判马列主义的知名著作导读</text></navLabel><content src="2018/09/Book-Review-The-Errors-of-Marxism-Leninism.html" /></navPoint>
-<navPoint id="post-2018-07-Forty-Years-of-China-USA-Relations" playOrder="101"><navLabel><text>从量变到质变——中美关系40年</text></navLabel><content src="2018/07/Forty-Years-of-China-USA-Relations.html" /></navPoint>
-<navPoint id="post-2018-08-USA-Containment-Strategies-in-Cold-War" playOrder="102"><navLabel><text>苏联是如何被慢慢勒死的？——聊聊冷战中美国的遏制战略</text></navLabel><content src="2018/08/USA-Containment-Strategies-in-Cold-War.html" /></navPoint>
-<navPoint id="post-2015-01-Communism-Nazism-Caesaropapism" playOrder="103"><navLabel><text>人类自由的三大死敌——谈谈&quot;共产运动、纳粹主义、政教合一&quot;的共性</text></navLabel><content src="2015/01/Communism-Nazism-Caesaropapism.html" /></navPoint>
-<navPoint id="post-2013-12-political-concepts-state-citizenship-etc" playOrder="104"><navLabel><text>政治常识扫盲：理清&quot;国家、政体、公民、政府、政党&quot;等概念</text></navLabel><content src="2013/12/political-concepts-state-citizenship-etc.html" /></navPoint>
-<navPoint id="post-2014-02-freedom-of-speech" playOrder="105"><navLabel><text>政治常识扫盲：澄清&quot;言论自由&quot;的各种误区</text></navLabel><content src="2014/02/freedom-of-speech.html" /></navPoint>
-<navPoint id="post-2012-07-form-of-government" playOrder="106"><navLabel><text>扫盲常见的政治体制</text></navLabel><content src="2012/07/form-of-government.html" /></navPoint>
-<navPoint id="post-2016-06-USA-Separation-of-Powers-with-Balances" playOrder="107"><navLabel><text>聊聊美国政体中的权力制衡——不仅仅是三权分立</text></navLabel><content src="2016/06/USA-Separation-of-Powers-with-Balances.html" /></navPoint>
-<navPoint id="post-2016-11-USA-Elections" playOrder="108"><navLabel><text>美国选举制度为啥这样设计？——兼谈其历史演变</text></navLabel><content src="2016/11/USA-Elections.html" /></navPoint>
-<navPoint id="post-2010-11-institutionalize" playOrder="109"><navLabel><text>谈谈体制化，并推荐《肖申克的救赎》</text></navLabel><content src="2010/11/institutionalize.html" /></navPoint>
-<navPoint id="post-2013-04-more-supervision-less-thankfulness" playOrder="110"><navLabel><text>对政府——多些&quot;监督问责&quot;，少些&quot;煽情感动&quot;</text></navLabel><content src="2013/04/more-supervision-less-thankfulness.html" /></navPoint>
-<navPoint id="post-2012-03-national-people-congress" playOrder="111"><navLabel><text>看看全国人大代表都是啥货色——兼谈&quot;议会道路的改良&quot;行不通</text></navLabel><content src="2012/03/national-people-congress.html" /></navPoint>
-<navPoint id="post-2012-10-history-of-red-khmers" playOrder="112"><navLabel><text>最&quot;纯正&quot;的共产主义政权——红色高棉简史</text></navLabel><content src="2012/10/history-of-red-khmers.html" /></navPoint>
-</navPoint>
-<navPoint id="recommend-E58E86E58FB2" playOrder="113"><navLabel><text>历史</text></navLabel><content src="" /><navPoint id="post-2011-06-june-fourth-incident-0" playOrder="114"><navLabel><text>回顾&quot;六四&quot; (系列)</text></navLabel><content src="2011/06/june-fourth-incident-0.html" /></navPoint>
-<navPoint id="post-2012-05-three-years-famine-0" playOrder="115"><navLabel><text>谈谈三年大饥荒(系列)</text></navLabel><content src="2012/05/three-years-famine-0.html" /></navPoint>
-<navPoint id="post-2014-07-artists-and-ccp" playOrder="116"><navLabel><text>面对共产党——民国人文大师的众生相</text></navLabel><content src="2014/07/artists-and-ccp.html" /></navPoint>
-<navPoint id="post-2016-01-Taiwan-Political-Movements" playOrder="117"><navLabel><text>台湾民主运动和独立运动简史</text></navLabel><content src="2016/01/Taiwan-Political-Movements.html" /></navPoint>
-<navPoint id="post-2010-09-censorship-of-images" playOrder="118"><navLabel><text>看看真理部是如何 PS 照片的</text></navLabel><content src="2010/09/censorship-of-images.html" /></navPoint>
-<navPoint id="post-2013-08-korean-war" playOrder="119"><navLabel><text>谈谈真理部对朝鲜战争的忽悠</text></navLabel><content src="2013/08/korean-war.html" /></navPoint>
-<navPoint id="post-2010-09-sino-japanese-war" playOrder="120"><navLabel><text>谈谈真理部对抗战历史的篡改</text></navLabel><content src="2010/09/sino-japanese-war.html" /></navPoint>
-<navPoint id="post-2014-04-history-china-fallen-behind-europe" playOrder="121"><navLabel><text>中国是从哪个朝代开始落后于西方？</text></navLabel><content src="2014/04/history-china-fallen-behind-europe.html" /></navPoint>
-<navPoint id="post-2011-03-ccp-vs-japanese" playOrder="122"><navLabel><text>谁是最可恨的人？——写给仇日愤青们</text></navLabel><content src="2011/03/ccp-vs-japanese.html" /></navPoint>
-<navPoint id="post-2014-03-propaganda-for-patriotism" playOrder="123"><navLabel><text>分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言</text></navLabel><content src="2014/03/propaganda-for-patriotism.html" /></navPoint>
-<navPoint id="post-2015-11-Why-Islam-Is-Different-from-Other-Religions" playOrder="124"><navLabel><text>伊斯兰教为何如此奇葩？</text></navLabel><content src="2015/11/Why-Islam-Is-Different-from-Other-Religions.html" /></navPoint>
-<navPoint id="post-2015-01-Islamic-Extremism" playOrder="125"><navLabel><text>伊斯兰教极端主义溯源</text></navLabel><content src="2015/01/Islamic-Extremism.html" /></navPoint>
-</navPoint>
-<navPoint id="recommend-E7BC96E7A88BE68A80E69CAF" playOrder="126"><navLabel><text>编程技术</text></navLabel><content src="" /><navPoint id="post-2012-05-weekly-share-5" playOrder="127"><navLabel><text>学习编程语言的3篇好文章</text></navLabel><content src="2012/05/weekly-share-5.html" /></navPoint>
-<navPoint id="post-2009-08-why-choose-python-0-overview" playOrder="128"><navLabel><text>为什么俺推荐 Python (系列)</text></navLabel><content src="2009/08/why-choose-python-0-overview.html" /></navPoint>
-<navPoint id="post-2009-03-producer-consumer-pattern-0-overview" playOrder="129"><navLabel><text>架构设计：生产者/消费者模式</text></navLabel><content src="2009/03/producer-consumer-pattern-0-overview.html" /></navPoint>
-<navPoint id="post-2009-02-multi-process-vs-multi-thread" playOrder="130"><navLabel><text>架构设计：进程还是线程？</text></navLabel><content src="2009/02/multi-process-vs-multi-thread.html" /></navPoint>
-<navPoint id="post-2009-02-how-to-choose-opensource-project" playOrder="131"><navLabel><text>如何选择开源项目？</text></navLabel><content src="2009/02/how-to-choose-opensource-project.html" /></navPoint>
-<navPoint id="post-2009-02-cxx-object-destroy-overview" playOrder="132"><navLabel><text>C++对象是怎么死的？ (系列)</text></navLabel><content src="2009/02/cxx-object-destroy-overview.html" /></navPoint>
-<navPoint id="post-2009-01-cxx-cross-platform-develop-0-overview" playOrder="133"><navLabel><text>C++的移植性和跨平台开发 (系列)</text></navLabel><content src="2009/01/cxx-cross-platform-develop-0-overview.html" /></navPoint>
-<navPoint id="post-2009-03-java-performance-tuning-0-overview" playOrder="134"><navLabel><text>Java 性能优化 (系列)</text></navLabel><content src="2009/03/java-performance-tuning-0-overview.html" /></navPoint>
-<navPoint id="post-2009-01-defect-of-java-beginner-0-overview" playOrder="135"><navLabel><text>Java 新手的通病 (系列)</text></navLabel><content src="2009/01/defect-of-java-beginner-0-overview.html" /></navPoint>
-</navPoint>
-<navPoint id="recommend-E4BC81E4B89AE7AEA1E79086" playOrder="136"><navLabel><text>企业管理</text></navLabel><content src="" /><navPoint id="post-2011-03-hiring-experience-0" playOrder="137"><navLabel><text>俺的招聘经验 (系列)</text></navLabel><content src="2011/03/hiring-experience-0.html" /></navPoint>
-<navPoint id="post-2009-04-defect-of-hire" playOrder="138"><navLabel><text>招聘的误区</text></navLabel><content src="2009/04/defect-of-hire.html" /></navPoint>
-<navPoint id="post-2009-03-80-20-principle-3-management-hire" playOrder="139"><navLabel><text>如何找到优秀的开发人才？</text></navLabel><content src="2009/03/80-20-principle-3-management-hire.html" /></navPoint>
-<navPoint id="post-2016-04-Andy-Grove-Quotes-on-Leadership" playOrder="140"><navLabel><text>硅谷 CEO 们的教父——分享安迪·格鲁夫的管理经验</text></navLabel><content src="2016/04/Andy-Grove-Quotes-on-Leadership.html" /></navPoint>
-</navPoint>
-</navPoint>
-<navPoint id="archive" playOrder="141">
+<navPoint id="archive" playOrder="45">
 <navLabel><text>历史归档</text></navLabel>
 <content src="" />
-<navPoint id="archive-2019" playOrder="142"><navLabel><text>2019 (32)</text></navLabel><content src="archive/2019.html" /></navPoint>
-<navPoint id="archive-2018" playOrder="143"><navLabel><text>2018 (31)</text></navLabel><content src="archive/2018.html" /></navPoint>
-<navPoint id="archive-2017" playOrder="144"><navLabel><text>2017 (34)</text></navLabel><content src="archive/2017.html" /></navPoint>
-<navPoint id="archive-2016" playOrder="145"><navLabel><text>2016 (37)</text></navLabel><content src="archive/2016.html" /></navPoint>
-<navPoint id="archive-2015" playOrder="146"><navLabel><text>2015 (61)</text></navLabel><content src="archive/2015.html" /></navPoint>
-<navPoint id="archive-2014" playOrder="147"><navLabel><text>2014 (76)</text></navLabel><content src="archive/2014.html" /></navPoint>
-<navPoint id="archive-2013" playOrder="148"><navLabel><text>2013 (96)</text></navLabel><content src="archive/2013.html" /></navPoint>
-<navPoint id="archive-2012" playOrder="149"><navLabel><text>2012 (109)</text></navLabel><content src="archive/2012.html" /></navPoint>
-<navPoint id="archive-2011" playOrder="150"><navLabel><text>2011 (58)</text></navLabel><content src="archive/2011.html" /></navPoint>
-<navPoint id="archive-2010" playOrder="151"><navLabel><text>2010 (40)</text></navLabel><content src="archive/2010.html" /></navPoint>
-<navPoint id="archive-2009" playOrder="152"><navLabel><text>2009 (93)</text></navLabel><content src="archive/2009.html" /></navPoint>
+<navPoint id="archive-2020" playOrder="46"><navLabel><text>2020 (6)</text></navLabel><content src="archive/2020.html" /></navPoint>
+<navPoint id="archive-2019" playOrder="47"><navLabel><text>2019 (39)</text></navLabel><content src="archive/2019.html" /></navPoint>
+<navPoint id="archive-2018" playOrder="48"><navLabel><text>2018 (31)</text></navLabel><content src="archive/2018.html" /></navPoint>
+<navPoint id="archive-2017" playOrder="49"><navLabel><text>2017 (34)</text></navLabel><content src="archive/2017.html" /></navPoint>
+<navPoint id="archive-2016" playOrder="50"><navLabel><text>2016 (37)</text></navLabel><content src="archive/2016.html" /></navPoint>
+<navPoint id="archive-2015" playOrder="51"><navLabel><text>2015 (61)</text></navLabel><content src="archive/2015.html" /></navPoint>
+<navPoint id="archive-2014" playOrder="52"><navLabel><text>2014 (76)</text></navLabel><content src="archive/2014.html" /></navPoint>
+<navPoint id="archive-2013" playOrder="53"><navLabel><text>2013 (96)</text></navLabel><content src="archive/2013.html" /></navPoint>
+<navPoint id="archive-2012" playOrder="54"><navLabel><text>2012 (109)</text></navLabel><content src="archive/2012.html" /></navPoint>
+<navPoint id="archive-2011" playOrder="55"><navLabel><text>2011 (58)</text></navLabel><content src="archive/2011.html" /></navPoint>
+<navPoint id="archive-2010" playOrder="56"><navLabel><text>2010 (40)</text></navLabel><content src="archive/2010.html" /></navPoint>
+<navPoint id="archive-2009" playOrder="57"><navLabel><text>2009 (93)</text></navLabel><content src="archive/2009.html" /></navPoint>
 </navPoint>
 </navMap>
 </ncx>

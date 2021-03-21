@@ -11,13 +11,14 @@
 <li><object type="text/sitemap"><param name="Name" value="首页"><param name="Local" value="index.html"><param name="ImageNumber" value="12"></object>
 <li><object type="text/sitemap"><param name="Name" value="分类标签"><param name="ImageNumber" value="1"></object>
 <ul>
-<li><object type="text/sitemap"><param name="Name" value="IT (203)"><param name="Local" value="tags/IT.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT (206)"><param name="Local" value="tags/IT.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.Linux (6)"><param name="Local" value="tags/IT.Linux.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.业界评论 (17)"><param name="Local" value="tags/IT.E4B89AE7958CE8AF84E8AEBA.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.人工智能 (3)"><param name="Local" value="tags/IT.E4BABAE5B7A5E699BAE883BD.html"><param name="ImageNumber" value="11"></object>
-<li><object type="text/sitemap"><param name="Name" value="IT.信息安全 (98)"><param name="Local" value="tags/IT.E4BFA1E681AFE5AE89E585A8.html"><param name="ImageNumber" value="11"></object>
-<li><object type="text/sitemap"><param name="Name" value="IT.翻墙 (49)"><param name="Local" value="tags/IT.E7BFBBE5A299.html"><param name="ImageNumber" value="11"></object>
-<li><object type="text/sitemap"><param name="Name" value="IT.软件介绍 (49)"><param name="Local" value="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT.信息安全 (99)"><param name="Local" value="tags/IT.E4BFA1E681AFE5AE89E585A8.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT.网络 (22)"><param name="Local" value="tags/IT.E7BD91E7BB9C.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT.翻墙 (50)"><param name="Local" value="tags/IT.E7BFBBE5A299.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT.软件介绍 (50)"><param name="Local" value="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="书评/影评 (55)"><param name="Local" value="tags/E4B9A6E8AF842FE5BDB1E8AF84.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="军事 (17)"><param name="Local" value="tags/E5869BE4BA8B.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="博客通告 (34)"><param name="Local" value="tags/E58D9AE5AEA2E9809AE5918A.html"><param name="ImageNumber" value="11"></object>
@@ -60,7 +61,7 @@
 </ul>
 <li><object type="text/sitemap"><param name="Name" value="历史归档"><param name="ImageNumber" value="1"></object>
 <ul>
-<li><object type="text/sitemap"><param name="Name" value="2021 (5)"><param name="Local" value="archive/2021.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="2021 (6)"><param name="Local" value="archive/2021.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2020 (28)"><param name="Local" value="archive/2020.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2019 (39)"><param name="Local" value="archive/2019.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2018 (31)"><param name="Local" value="archive/2018.html"><param name="ImageNumber" value="11"></object>

@@ -11,11 +11,11 @@
 <li><object type="text/sitemap"><param name="Name" value="首页"><param name="Local" value="index.html"><param name="ImageNumber" value="12"></object>
 <li><object type="text/sitemap"><param name="Name" value="分类标签"><param name="ImageNumber" value="1"></object>
 <ul>
-<li><object type="text/sitemap"><param name="Name" value="IT (206)"><param name="Local" value="tags/IT.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT (207)"><param name="Local" value="tags/IT.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.Linux (6)"><param name="Local" value="tags/IT.Linux.html"><param name="ImageNumber" value="11"></object>
-<li><object type="text/sitemap"><param name="Name" value="IT.业界评论 (17)"><param name="Local" value="tags/IT.E4B89AE7958CE8AF84E8AEBA.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT.业界评论 (16)"><param name="Local" value="tags/IT.E4B89AE7958CE8AF84E8AEBA.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.人工智能 (3)"><param name="Local" value="tags/IT.E4BABAE5B7A5E699BAE883BD.html"><param name="ImageNumber" value="11"></object>
-<li><object type="text/sitemap"><param name="Name" value="IT.信息安全 (99)"><param name="Local" value="tags/IT.E4BFA1E681AFE5AE89E585A8.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="IT.信息安全 (100)"><param name="Local" value="tags/IT.E4BFA1E681AFE5AE89E585A8.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.网络 (22)"><param name="Local" value="tags/IT.E7BD91E7BB9C.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.翻墙 (50)"><param name="Local" value="tags/IT.E7BFBBE5A299.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="IT.软件介绍 (50)"><param name="Local" value="tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html"><param name="ImageNumber" value="11"></object>
@@ -36,7 +36,7 @@
 <li><object type="text/sitemap"><param name="Name" value="政治.真理部 (37)"><param name="Local" value="tags/E694BFE6B2BB.E79C9FE79086E983A8.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="政治.腐败 (26)"><param name="Local" value="tags/E694BFE6B2BB.E88590E8B4A5.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="教育 (9)"><param name="Local" value="tags/E69599E882B2.html"><param name="ImageNumber" value="11"></object>
-<li><object type="text/sitemap"><param name="Name" value="时事评论 (173)"><param name="Local" value="tags/E697B6E4BA8BE8AF84E8AEBA.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="时事评论 (175)"><param name="Local" value="tags/E697B6E4BA8BE8AF84E8AEBA.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="环保 (13)"><param name="Local" value="tags/E78EAFE4BF9D.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="科普 (7)"><param name="Local" value="tags/E7A791E699AE.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="管理 (16)"><param name="Local" value="tags/E7AEA1E79086.html"><param name="ImageNumber" value="11"></object>
@@ -61,7 +61,7 @@
 </ul>
 <li><object type="text/sitemap"><param name="Name" value="历史归档"><param name="ImageNumber" value="1"></object>
 <ul>
-<li><object type="text/sitemap"><param name="Name" value="2021 (7)"><param name="Local" value="archive/2021.html"><param name="ImageNumber" value="11"></object>
+<li><object type="text/sitemap"><param name="Name" value="2021 (8)"><param name="Local" value="archive/2021.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2020 (28)"><param name="Local" value="archive/2020.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2019 (39)"><param name="Local" value="archive/2019.html"><param name="ImageNumber" value="11"></object>
 <li><object type="text/sitemap"><param name="Name" value="2018 (31)"><param name="Local" value="archive/2018.html"><param name="ImageNumber" value="11"></object>
